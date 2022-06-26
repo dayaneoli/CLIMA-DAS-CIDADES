@@ -1,0 +1,12 @@
+A API (Interface entre Aplicativo e programação) foi construída com a finalidade de expor com certa frequência, dados climáticos, como a temperatura atual, da cidade de Natal, capital do Rio Grande do Norte.
+
+Os dados climáticos como temperatura, umidade e etc., são uma request de uma API pública, citada nas referências abaixo.
+
+As referências usadas para construção dessa API, foram:
+https://medium.com/trainingcenter/brincando-com-uma-api-simples-em-node-js-8c1a50c7aab3
+https://home.openweathermap.org/
+https://openweathermap.org/current
+
+
+
+
